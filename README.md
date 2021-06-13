@@ -11,3 +11,7 @@ I have hidden an ETH wallet in this picture but also Some crypto assets in this 
 These crypto assets may be became yours if you can crack it.
 
 So crack it hurry up！！！
+
+# NOTICE
+
+You must download the original image in this project！！！
