@@ -1,6 +1,6 @@
 # CrackMe(The game isn't begin!)
 
-Hellow everyone！Nowadays，I have a game to announce.
+Hellow everyone！I want play a game!
 
 Look at the follow picture.In fact,its not a common picture.This a special picture which made by me used a Simple encryption.
 
