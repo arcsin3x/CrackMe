@@ -10,7 +10,7 @@ Because I modified this image using a very simple technique.
 
 I have hidden the private key of an Ethereum wallet in this image.
 
-And I have left some digital assets and fee in this wallet that you can transfer to you account.
+And I have left some digital assets and fee in this wallet that you can transfer money to your account.
 
 At present, the value of the wallet is not much, but I believe it will increase with time.
 
