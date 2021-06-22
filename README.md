@@ -2,7 +2,9 @@
 
  Hellow everyone！I want play a game! 
 
-Look at the follow picture.In fact,its not a common picture.This a special picture which made by me used a Simple encryption.
+Look at the follow picture.In fact,its not a common picture.
+
+This a special picture which made by me used a Simple encryption.
 
 ![图片](https://user-images.githubusercontent.com/76581055/121801377-98ac6780-cc69-11eb-85f9-0ab24dd038a7.png)
 
