@@ -28,4 +28,5 @@ So crack it hurry up！！！
 
 ## NOTICE
 
-- You must download the original image in this project！！！
+- You must download the original image in this image
+- The wallet adress：0xAA43f3F3ECe0C5bf489A0421e5707e9502a2e1fF
