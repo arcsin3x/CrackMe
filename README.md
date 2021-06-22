@@ -1,4 +1,4 @@
-# CrackMe(The game isn't begin!)
+# CrackMe(The game is coming soon!)
 
 Hellow everyone！I want play a game!
 
