@@ -16,7 +16,7 @@ At present, the value of the wallet is not too much, but I believe it will incre
 
 If you're lucky enough to crack it, the assets are yours and you can transfer them to your wallet.
 
-I leave the address of the wallet at the bottom to make sure that the wallet does contain a certain amount of crypto assets.
+I will leave the address of the wallet to make sure that the wallet does contain a certain amount of crypto assets.
 
 ![图片](https://user-images.githubusercontent.com/76581055/121801377-98ac6780-cc69-11eb-85f9-0ab24dd038a7.png)
 
