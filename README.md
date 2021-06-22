@@ -8,7 +8,7 @@ In fact, this is not a picture of a general.
 
 Because I modified this image using a very simple technique.
 
-I have hidden the private key of an Ethereum wallet in this image while modifying it.
+I have hidden the private key of an Ethereum wallet in this image.
 
 In this wallet I have left a certain amount of digital assets and a fee that you can use to transfer money.
 
