@@ -14,4 +14,4 @@ So crack it hurry up！！！
 
 # NOTICE
 
-You must download the original image in this project！！！
+- You must download the original image in this project！！！
