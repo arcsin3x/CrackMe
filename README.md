@@ -1,10 +1,22 @@
 # CrackMe(The game is coming soon!)
 
- Hellow everyone！I want play a game! 
+Hello everyone, I want to play a game.
 
-Look at the follow picture.In fact,its not a common picture.
+Do you see the follow picture?
 
-This a special picture which made by me used a Simple encryption.
+In fact, this is not a picture of a general.
+
+Because I modified this image using a very simple technique.
+
+I have hidden the private key of an Ethereum wallet in this image while modifying it.
+
+In this wallet I have left a certain amount of digital assets and a fee that you can use to transfer money.
+
+At present, the value of the wallet is not much, but I believe it will increase with time.
+
+If you're lucky enough to crack it, the assets are yours and you can transfer them to your wallet.
+
+I leave the address of the wallet at the bottom to make sure that the wallet does contain a certain amount of crypto assets.
 
 ![图片](https://user-images.githubusercontent.com/76581055/121801377-98ac6780-cc69-11eb-85f9-0ab24dd038a7.png)
 
