@@ -1,6 +1,6 @@
 # CrackMe(The game is coming soon!)
 
-## Hellow everyone！I want play a game! 
+ Hellow everyone！I want play a game! 
 
 Look at the follow picture.In fact,its not a common picture.This a special picture which made by me used a Simple encryption.
 
@@ -12,6 +12,6 @@ These crypto assets may be became yours if you can crack it.
 
 So crack it hurry up！！！
 
-# NOTICE
+## NOTICE
 
 - You must download the original image in this project！！！
