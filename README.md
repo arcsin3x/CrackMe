@@ -2,7 +2,7 @@
 
 Hello everyone, I want to play a game.
 
-Do you see the follow picture?
+Do you see the follow image?
 
 In fact, this is not a picture of a general.
 
