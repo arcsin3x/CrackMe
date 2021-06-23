@@ -22,8 +22,10 @@ I will leave the address of the wallet to make sure that the wallet does contain
 
 **So crack it hurry up！！！**
 
-## NOTICE AND TIP!!!
+## NOTICE AND TIPS!!!
 
 - You must download the original image in this image
 - You maybe crack it by four steps
+- The all elements maybe useful to you
 - The wallet adress：0xAA43f3F3ECe0C5bf489A0421e5707e9502a2e1fF
+- Don't forget add my WeChat account which I leave it on the end step
