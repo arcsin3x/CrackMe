@@ -22,7 +22,8 @@ I will leave the address of the wallet to make sure that the wallet does contain
 
 **So crack it hurry up！！！**
 
-## NOTICE
+## NOTICE AND TIP!!!
 
 - You must download the original image in this image
+- You maybe crack it by four steps
 - The wallet adress：0xAA43f3F3ECe0C5bf489A0421e5707e9502a2e1fF
