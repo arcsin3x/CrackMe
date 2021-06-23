@@ -28,4 +28,6 @@ I will leave the address of the wallet to make sure that the wallet does contain
 - You maybe crack it by four steps
 - The all elements maybe useful to you
 - Don't forget add my WeChat account which I leave it on the end step
+- I will delete this game until someone crack it and get the rewards
 - The wallet adress：0xAA43f3F3ECe0C5bf489A0421e5707e9502a2e1fF
+#GOOD LUCK!!!
