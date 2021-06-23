@@ -20,7 +20,7 @@ I will leave the address of the wallet to make sure that the wallet does contain
 
 ![图片](https://user-images.githubusercontent.com/76581055/121801377-98ac6780-cc69-11eb-85f9-0ab24dd038a7.png)
 
-** So crack it hurry up！！！ **
+**So crack it hurry up！！！
 
 ## NOTICE
 
