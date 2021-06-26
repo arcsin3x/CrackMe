@@ -33,4 +33,6 @@ I will leave the address of the wallet to make sure that the wallet does contain
 
 # GOOD LUCK!!!
 
-大家好！
+大家好！我想玩一个游戏。
+你看到下面的图片了吗？
+
