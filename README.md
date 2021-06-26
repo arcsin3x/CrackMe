@@ -32,3 +32,5 @@ I will leave the address of the wallet to make sure that the wallet does contain
 - The wallet adress：0xAA43f3F3ECe0C5bf489A0421e5707e9502a2e1fF
 
 # GOOD LUCK!!!
+
+大家好！
