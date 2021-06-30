@@ -34,6 +34,9 @@ I will leave the address of the wallet to make sure that the wallet does contain
 # GOOD LUCK!!!
 
 大家好！我想玩一个游戏。
+
 你看到下面的图片了吗？
+
 事实上这并不是一个普通的图片，因为我对它进行了一些修改。
-我将一个
+
+我将一个含有加密资产的以太坊钱包私钥隐藏在了这张图片的背后。
