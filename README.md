@@ -36,3 +36,4 @@ I will leave the address of the wallet to make sure that the wallet does contain
 大家好！我想玩一个游戏。
 你看到下面的图片了吗？
 事实上这并不是一个普通的图片，因为我对它进行了一些修改。
+我将一个
