@@ -46,3 +46,4 @@ I will leave the address of the wallet to make sure that the wallet does contain
 目前，钱包内加密资产的价值并不高，但是我相信经过时间的沉淀其价值也会有一定的增长。
 
 
+
