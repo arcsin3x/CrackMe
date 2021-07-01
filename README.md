@@ -40,3 +40,5 @@ I will leave the address of the wallet to make sure that the wallet does contain
 事实上这并不是一个普通的图片，因为我对它进行了一些修改。
 
 我将一个含有加密资产的以太坊钱包私钥隐藏在了这张图片的背后。
+
+钱包内还有一定数量的手续费，以供成功破解者转移资产。
